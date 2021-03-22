@@ -1,3 +1,3 @@
-# Prtojeto Curso Fullstak GB-Crescere
+# Prtojeto Curso Fullstack GB-Crescere
 
 
