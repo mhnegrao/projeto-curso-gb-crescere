@@ -8,8 +8,8 @@
       title: "Iniciando",
     },
     {
-      link: "form-demo",
-      title: "Exemplos de Formulários",
+      link: "cara-coroa",
+      title: "Joguinho",
     },
   ];
 </script>
